@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         hideSidebar.js
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      1.0
+// @description  Hides intrusive elements on dota2.gamepedia.com
+// @author       jagmeetb
 // @match        http://dota2.gamepedia.com/*
-// @grant        none
+// @downloadURL  https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.js
+// @updateURL    https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.js
+// @grant        @GM_addStyle
 // ==/UserScript==
 
 (function() {
