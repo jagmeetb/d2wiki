@@ -7,8 +7,6 @@
 // @match        http://dota2.gamepedia.com/*
 // @downloadURL  https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.js
 // @updateURL    https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.js
-// @require      https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js
-// @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 // @grant        @GM_addStyle
 // ==/UserScript==
 
