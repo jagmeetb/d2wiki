@@ -6,5 +6,5 @@ Requires Tampermonkey (Chrome) or Greasemonkey (Firefox)
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en  
 https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
-Then install the script from the following link:
+Then install the script from the following link:  
 https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.js
