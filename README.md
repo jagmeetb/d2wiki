@@ -7,4 +7,4 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
 Then install the script from the following link:  
-https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.js
+https://github.com/jagmeetb/d2wiki/raw/master/hideSidebar.user.js
