@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         hideSidebar.js
+// @name         hideSidebar.user.js
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Hides intrusive elements on dota2.gamepedia.com
 // @author       jagmeetb
 // @match        http://dota2.gamepedia.com/*
