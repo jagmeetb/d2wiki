@@ -4,7 +4,7 @@
 // @version      1.11
 // @description  Hides intrusive elements on dota2.gamepedia.com
 // @author       jagmeetb
-// @match        http://dota2.gamepedia.com/*
+// @match        http*://dota2.gamepedia.com/*
 // @downloadURL  https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.user.js
 // @updateURL    https://raw.githubusercontent.com/jagmeetb/d2wiki/master/hideSidebar.user.js
 // @grant        @GM_addStyle
