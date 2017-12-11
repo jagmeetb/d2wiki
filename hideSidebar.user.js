@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dota2 Wiki Hide Sidebar
 // @namespace    http://tampermonkey.net/
-// @version      1.11
+// @version      1.12
 // @description  Hides intrusive elements on dota2.gamepedia.com
 // @author       jagmeetb
 // @match        http*://dota2.gamepedia.com/*
