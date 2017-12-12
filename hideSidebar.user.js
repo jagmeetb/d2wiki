@@ -19,6 +19,4 @@
 
     var toBeHidden = document.getElementById("siderail");
     toBeHidden.parentNode.removeChild(toBeHidden);
-    
-    window.location.href = "dota2.gamepedia.com/index.php?title=Dota_2_Wiki&mobileaction=toggle_view_desktop";
 })();
